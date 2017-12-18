@@ -1,0 +1,31 @@
+.order__table {
+    display: table;
+    width: 100%;
+}
+.order__table-head_goods {
+    width: 80%;
+    font-weight: 600;
+    display: table-cell;
+}
+.order__table-head_price {
+    width: 20%;
+    font-weight: 600;
+    display: table-cell;
+}
+.order__table-head {
+    display: table-header-group;
+}
+.order__table-body {
+    display: table-row-group;
+}
+.order__table-item {
+    display: table-row;
+}
+.order__tables-item_goods {
+    display: table-cell;
+    width: 80%;
+}
+.order__tables-item_price {
+    display: table-cell;
+    width: 20%;
+}
